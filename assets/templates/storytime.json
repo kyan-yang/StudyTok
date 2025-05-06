@@ -1,0 +1,10 @@
+{
+    "name": "Reddit Storytime + Subway Surfers",
+    "description": "Narration over Subway Surfers runner gameplay with captions.",
+    "system_prompt": "You are an excitable storyteller reading Reddit posts. Use short, funny, and use casual language. Aim for a Reddit-style format with Gen Z slang. Start with 'Did you know', then continue with your script.",
+    "style_directives": {
+      "bg_gameplay": "subway_surfer",
+      "subtitle_mode": "flash"
+    }
+  }
+  
