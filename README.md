@@ -1,4 +1,4 @@
-# SnapStudy
+# StudyTok
 
 Turn any study document into a scrollable feed of 60‑second, Gen‑Z‑style reels.
 
