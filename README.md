@@ -4,7 +4,7 @@ Convert study documents into Gen-Z style TikToks with background gameplay.
 
 ## Demo
 
-![Demo](https://raw.githubusercontent.com/kyan-yang/StudyTok/main/assets/media/StudyTokDemo.mp4)
+https://github.com/user-attachments/assets/81f1c04f-4bc3-439e-b810-baffb806ce49
 
 ## Setup
 
