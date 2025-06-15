@@ -4,7 +4,7 @@ Convert study documents into Gen-Z style TikToks with background gameplay.
 
 ## Demo
 
-https://raw.githubusercontent.com/kyan-yang/StudyTok/main/assets/media/StudyTokDemo.mp4
+[![Demo]](https://raw.githubusercontent.com/kyan-yang/StudyTok/main/assets/media/StudyTokDemo.mp4)
 
 ## Setup
 
@@ -24,4 +24,4 @@ streamlit run ui/app.py
 ```
 
 ## Pic from hackathon
-![StudyTok Screenshot](assets/media/StudyTokPic.JPEG)
+![StudyTok Screenshot](https://raw.githubusercontent.com/kyan-yang/StudyTok/main/assets/media/StudyTokPic.JPEG)
