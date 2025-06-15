@@ -13,8 +13,8 @@ def convert_mov_to_mp4(input_path, output_path):
         ffmpeg_params=['-preset', 'fast', '-crf', '23', '-threads', '4']
     )
 
-# Example usage
-os.chdir(r'C:\Users\Kyan\Desktop\McHack\assets\media')
-input_path = "clip1.mov"
-output_path = "output.mp4"
+input_path = "assets/media/StudyTokDemo.MOV"
+output_path = "assets/media/StudyTokDemo.mp4"
+
 convert_mov_to_mp4(input_path, output_path)
+print("Conversion complete") 
