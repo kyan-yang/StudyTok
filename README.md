@@ -1,6 +1,6 @@
 # StudyTok
 
-Convert study documents into Gen-Z style TikToks with background gameplay.
+Upload any study material and convert into Gen-Z style TikToks with background gameplay.
 
 ## Demo
 
