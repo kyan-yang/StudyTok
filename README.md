@@ -1,12 +1,21 @@
 # StudyTok
 
-Turn any study document into a scrollable feed of 60‑second, Gen‑Z‑style reels.
+Convert study documents into Gen-Z style TikToks with background gameplay.
 
-## Quick start
+## Requirements
+
+- Python 3.8+
+- FFmpeg
+- OpenAI API key
+
+## Setup
+
+1. Install FFmpeg
+2. Install requirements.txt
+3. Add GROQ and ElevenLabs API keys to `.env`
+
+## Run
 
 ```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-export OPENAI_API_KEY=...
 streamlit run ui/app.py
 ```

@@ -7,7 +7,7 @@ from openai import OpenAI
 from typing import List
 from tqdm import tqdm
 
-# 1.  Create a client that talks to Groq instead of OpenAI
+# 1.  Create a client that talks to Groq
 client = OpenAI(
     base_url="https://api.groq.com/openai/v1",
     api_key=os.getenv("GROQ_API_KEY"),
